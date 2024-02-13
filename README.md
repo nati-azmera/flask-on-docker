@@ -49,13 +49,6 @@ $ docker-compose -f docker-compose.prod.yml exec web python manage.py create_db
 
 3. Test it out at http://localhost:4444
 
-  
-4. When finished, bring down the development containers (and the associated volumes with the -v flag)
-
-```
-$ docker-compose down -v
-```
-
 ## Uploading
 
 To upload files, go to http://localhost:4444/upload and upload the file.
