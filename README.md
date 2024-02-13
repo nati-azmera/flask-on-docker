@@ -23,7 +23,7 @@ $ docker-compose up -d --build
 $ docker-compose exec web python manage.py create_db
 ```
 
-3. Test it out at http://localhost:4444
+3. Test it out at http://localhost:50505
 
 4. When finished, bring down the development containers (and the associated volumes with the -v flag)
 
