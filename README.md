@@ -5,7 +5,7 @@ In this project, I used the instructions found [here](https://testdriven.io/blog
 
 Below is a demonstration of what uploading a picture looks like:
 
-![Demo GIF](demo.gif)
+
 
 ## Development
 
